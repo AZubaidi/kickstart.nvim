@@ -3,6 +3,4 @@
 --
 -- See the kickstart.nvim README for more information
 return {
-  "windwp/nvim-autopairs",
-  "akinsho/toggleterm.nvim",
 }
